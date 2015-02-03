@@ -5,7 +5,7 @@ module Rapticron
   def security_list
     # create security sources list
     # This is for security updates ONLY
-    # TODO: system('sudo grep "-security" /etc/apt/sources.list | sudo grep -v "#" > /etc/apt/security.sources.list')
+    # TODO-me system('sudo grep "-security" /etc/apt/sources.list | sudo grep -v "#" > /etc/apt/security.sources.list')
   end
 
   def send_mail
