@@ -1,6 +1,6 @@
 # Rapticron
 
-Ruby implementation of Apti-cron
+Ruby implementation of Apti-cron. This is a Work in Progress.
 
 ## Installation
 
